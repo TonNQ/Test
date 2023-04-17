@@ -1,0 +1,11 @@
+E:\.NET\Exercise\2110_3layers\bin\Debug\2110_3layers.exe.config
+E:\.NET\Exercise\2110_3layers\bin\Debug\2110_3layers.exe
+E:\.NET\Exercise\2110_3layers\bin\Debug\2110_3layers.pdb
+E:\.NET\Exercise\2110_3layers\obj\Debug\2110_3layers.csproj.AssemblyReference.cache
+E:\.NET\Exercise\2110_3layers\obj\Debug\2110_3layers.csproj.SuggestedBindingRedirects.cache
+E:\.NET\Exercise\2110_3layers\obj\Debug\_2110_3layers.Properties.Resources.resources
+E:\.NET\Exercise\2110_3layers\obj\Debug\_2110_3layers.Form1.resources
+E:\.NET\Exercise\2110_3layers\obj\Debug\2110_3layers.csproj.GenerateResource.cache
+E:\.NET\Exercise\2110_3layers\obj\Debug\2110_3layers.csproj.CoreCompileInputs.cache
+E:\.NET\Exercise\2110_3layers\obj\Debug\2110_3layers.exe
+E:\.NET\Exercise\2110_3layers\obj\Debug\2110_3layers.pdb
